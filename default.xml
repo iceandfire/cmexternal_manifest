@@ -288,5 +288,8 @@ sync-j="4" />
 <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
 <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
 <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+<project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+<project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
+<project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
 
 </manifest>
